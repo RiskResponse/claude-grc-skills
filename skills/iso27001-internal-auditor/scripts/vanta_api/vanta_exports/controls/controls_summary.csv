@@ -1,0 +1,101 @@
+Control ID,Control Name,ISO Section,Framework Name,Status,Owner,Test Count,Document Count
+95gl3uru,"Determining the scope of the information security management system","C.4.3",,Unknown,"Jackson Irwin",0,0
+duwec37o,"Inventory of information and other associated assets","A.5.9",,Unknown,"Maitham Dib",0,0
+23wj3sby,"Return of assets","A.5.11",,Unknown,"Maitham Dib",0,0
+dzm2dexq,"Security of assets off-premises","A.7.9",,Unknown,"Jackson Irwin",0,0
+rol0zubt,"Storage media","A.7.10",,Unknown,"Jackson Irwin",0,0
+9t2qdzle,"ICT readiness for business continuity","A.5.30",,Unknown,"Maitham Dib",0,0
+o7ssnlfi,"Information backup","A.8.13",,Unknown,"Maitham Dib",0,0
+oufs0z8u,"Redundancy of information processing facilities","A.8.14",,Unknown,"Maitham Dib",0,0
+fpa4156z,"Capacity management","A.8.6",,Unknown,"Maitham Dib",0,0
+hrnf9oqw,"Configuration management","A.8.9",,Unknown,"Maitham Dib",0,0
+knlhbqw2,"Planning of Changes","C.6.3",,Unknown,"Maitham Dib",0,0
+voxc3tc6,"Installation of software on operational systems","A.8.19",,Unknown,"Maitham Dib",0,0
+sbjgr7xz,"Change management","A.8.32",,Unknown,"Maitham Dib",0,0
+zrx7kjgo,"Information security for use of cloud services","A.5.23",,Unknown,"Maitham Dib",0,0
+7mi2nbsh,"Internal Audit - General","C.9.2.1",,Unknown,"Jackson Irwin",0,0
+nqkiqbmz,"Internal Audit Program","C.9.2.2",,Unknown,"Jackson Irwin",0,0
+pb10fioj,"Nonconformity and corrective action","C.10.2",,Unknown,"Jackson Irwin",0,0
+p87muahm,"Legal, statutory, regulatory and contractual requirements","A.5.31",,Unknown,"Jackson Irwin",0,0
+nogvv3hw,"Information transfer","A.5.14",,Unknown,"Maitham Dib",0,0
+07i98tv1,"Use of cryptography","A.8.24",,Unknown,"Maitham Dib",0,0
+425x42p9,"Acceptable use of information and other associated assets","A.5.10",,Unknown,"Maitham Dib",0,0
+m8r0bfbq,"Classification of information","A.5.12",,Unknown,"Maitham Dib",0,0
+5qzssew8,"Labelling of information","A.5.13",,Unknown,"Maitham Dib",0,0
+mtbrd5ny,"Protection of records","A.5.33",,Unknown,"Jackson Irwin",0,0
+kt5aajg7,"Information deletion","A.8.10",,Unknown,"Maitham Dib",0,0
+fjoy8ov9,"Data masking","A.8.11",,Unknown,"Maitham Dib",0,0
+zv2sb0to,"Data leakage prevention","A.8.12",,Unknown,"Maitham Dib",0,0
+2zhexo15,"User endpoint devices","A.8.1",,Unknown,"Maitham Dib",0,0
+4e2usbzc,"Protection against malware","A.8.7",,Unknown,"Maitham Dib",0,0
+3h090bng,"Understanding the needs of interested parties","C.4.2",,Unknown,"Jackson Irwin",0,0
+qvl84rml,"Communication","C.7.4",,Unknown,"Jackson Irwin",0,0
+iuq8lnb6,"Documented information","C.7.5.1",,Unknown,"Jackson Irwin",0,0
+gidyzqry,"Creating and Updating","C.7.5.2",,Unknown,"Jackson Irwin",0,0
+m7cfnwkq,"Management review - General","C.9.3.1",,Unknown,"Jackson Irwin",0,0
+steival4,"Management review inputs","C.9.3.2",,Unknown,"Jackson Irwin",0,0
+u7dltb40,"Management review results","C.9.3.3",,Unknown,"Jackson Irwin",0,0
+0eyp30mh,"Continual Improvement","C.10.1",,Unknown,"Jackson Irwin",0,0
+ihtowh2e,"Policies for information security","A.5.1",,Unknown,"Jackson Irwin",0,0
+69z2hplm,"Management responsibilities","A.5.4",,Unknown,"Maitham Dib",0,0
+5sd6imyl,"Contact with special interest groups","A.5.6",,Unknown,"Jackson Irwin",0,0
+o9q0idpd,"Documented operating procedures","A.5.37",,Unknown,"Maitham Dib",0,0
+h8fbfi9g,"Awareness","C.7.3",,Unknown,"Jackson Irwin",0,0
+6i8ettoj,"Information security roles and responsibilities","A.5.2",,Unknown,"Jackson Irwin",0,0
+v4vhjfvh,"Segregation of duties","A.5.3",,Unknown,"Jackson Irwin",0,0
+i9up48pp,"Screening","A.6.1",,Unknown,"Maitham Dib",0,0
+15al5zi7,"Responsibilities after termination or change of employment","A.6.5",,Unknown,"Maitham Dib",0,0
+v2ygke7o,"Access control","A.5.15",,Unknown,"Maitham Dib",0,0
+5c4gnshh,"Authentication information","A.5.17",,Unknown,"Maitham Dib",0,0
+xtd1rde4,"Access rights","A.5.18",,Unknown,"Maitham Dib",0,0
+zxjp1hkl,"Privileged access rights","A.8.2",,Unknown,"Maitham Dib",0,0
+mwwihowm,"Information access restriction","A.8.3",,Unknown,"Maitham Dib",0,0
+5o51jc7h,"Use of privileged utility programs","A.8.18",,Unknown,"Maitham Dib",0,0
+v9blvnxj,"Addressing information security within supplier agreements","A.5.20",,Unknown,"Maitham Dib",0,0
+lggb5g7c,"Information security incident management planning and preparation","A.5.24",,Unknown,"Maitham Dib",0,0
+tp0kv7ho,"Assessment and decision on information security events","A.5.25",,Unknown,"Maitham Dib",0,0
+qmodzmvg,"Response to information security incidents","A.5.26",,Unknown,"Maitham Dib",0,0
+47fxwco1,"Learning from information security incidents","A.5.27",,Unknown,"Maitham Dib",0,0
+2qki93x0,"Collection of evidence","A.5.28",,Unknown,"Maitham Dib",0,0
+x14j0x47,"Information security during disruption","A.5.29",,Unknown,"Maitham Dib",0,0
+qgkw4h74,"Information security event reporting","A.6.8",,Unknown,"Maitham Dib",0,0
+3osnyf10,"Logging","A.8.15",,Unknown,"Maitham Dib",0,0
+i7xairas,"Monitoring activities","A.8.16",,Unknown,"Maitham Dib",0,0
+jqyhc6kq,"Networks security","A.8.20",,Unknown,"Maitham Dib",0,0
+z58ieqyf,"Security of network services","A.8.21",,Unknown,"Maitham Dib",0,0
+k3eilu6n,"Segregation of networks","A.8.22",,Unknown,"Maitham Dib",0,0
+4syp5hfe,"Web filtering","A.8.23",,Unknown,"Maitham Dib",0,0
+o3chwj8e,"Working in secure areas","A.7.6",,Unknown,"Maitham Dib",0,0
+ayjqf12w,"Equipment siting and protection","A.7.8",,Unknown,"Jackson Irwin",0,0
+qi6b6cr1,"Supporting utilities","A.7.11",,Unknown,"Jackson Irwin",0,0
+zz8z506w,"Privacy and protection of PII","A.5.34",,Unknown,"Maitham Dib",0,0
+1lbwjsfo,"Information security in project management","A.5.8",,Unknown,"Jackson Irwin",0,0
+sxcpoygj,"Information security risk assessment","C.6.1.2",,Unknown,"Maitham Dib",0,0
+jkza2tda,"Information security risk treatment","C.6.1.3",,Unknown,"Maitham Dib",0,0
+4t917e3g,"Information security risk assessment","C.8.2",,Unknown,"Maitham Dib",0,0
+vumyqh2x,"Information security risk treatment","C.8.3",,Unknown,"Maitham Dib",0,0
+h46r2403,"Information security awareness, education and training","A.6.3",,Unknown,"Maitham Dib",0,0
+m6u2mvnk,"Application security requirements","A.8.26",,Unknown,"Maitham Dib",0,0
+27qd09no,"Secure system architecture and engineering principles","A.8.27",,Unknown,"Maitham Dib",0,0
+axwe26mw,"Access to source code","A.8.4",,Unknown,"Maitham Dib",0,0
+c7diea1e,"Secure development life cycle","A.8.25",,Unknown,"Maitham Dib",0,0
+qi8ey5na,"Secure coding","A.8.28",,Unknown,"Maitham Dib",0,0
+ise32uno,"Security testing in development and acceptance","A.8.29",,Unknown,"Maitham Dib",0,0
+sbiopz10,"Separation of development, test and production environments","A.8.31",,Unknown,"Maitham Dib",0,0
+bqnpwe6c,"Test information","A.8.33",,Unknown,"Jackson Irwin",0,0
+mjnl61h4,"Threat Intelligence","A.5.7",,Unknown,"Maitham Dib",0,0
+dz91o1f8,"Information security in supplier relationships","A.5.19",,Unknown,"Maitham Dib",0,0
+69evj2pe,"Managing information security in the ICT supply chain","A.5.21",,Unknown,"Maitham Dib",0,0
+r7xxjkaz,"Monitoring, review and change management of supplier services","A.5.22",,Unknown,"Maitham Dib",0,0
+9phqpcta,"Outsourced development","A.8.30",,Unknown,"Maitham Dib",0,0
+ucm1fk9z,"Information security objective and planning to achieve them","C.6.2",,Unknown,"Jackson Irwin",0,0
+ulnhky2w,"Leadership and commitment","C.5.1",,Unknown,"Jackson Irwin",0,0
+77yz851y,"Understanding the organization and its context","C.4.1",,Unknown,"Jackson Irwin",0,0
+wx3ruzdu,"Information security management system","C.4.4",,Unknown,"Maitham Dib",0,0
+6zi88387,"Policy","C.5.2",,Unknown,"Maitham Dib",0,0
+iu7o7dv3,"Organizational roles, responsibilities and authorities","C.5.3",,Unknown,"Jackson Irwin",0,0
+dzsaee29,"Protection of information systems during audit testing","A.8.34",,Unknown,"Maitham Dib",0,0
+7pn1c8nr,"Independent review of information security","A.5.35",,Unknown,"Maitham Dib",0,0
+gonqt473,"Intellectual property rights","A.5.32",,Unknown,"Jackson Irwin",0,0
+x71vtj2d,"General actions to address risks and opportunities","C.6.1.1",,Unknown,"Maitham Dib",0,0
+z01cfd6c,"Management of technical vulnerabilities","A.8.8",,Unknown,"Maitham Dib",0,0

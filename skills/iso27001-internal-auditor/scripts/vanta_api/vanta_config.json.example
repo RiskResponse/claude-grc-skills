@@ -1,0 +1,9 @@
+{
+  "client_id": "vci_YOUR_CLIENT_ID_HERE",
+  "client_secret": "vcs_YOUR_CLIENT_SECRET_HERE",
+  "api_base_url": "https://api.vanta.com",
+  "export_directory": "./vanta_exports",
+  "rate_limit_delay": 1,
+  "notes": "Vanta Audit API - Read-only access for ISO 27001 internal audits"
+}
+

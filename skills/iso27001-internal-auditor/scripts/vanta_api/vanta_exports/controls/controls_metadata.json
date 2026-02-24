@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "95gl3uru",
+    "externalId": "AST-65",
+    "name": "Determining the scope of the information security management system",
+    "description": "The organization shall determine the boundaries and applicability of the information security management system to establish its scope. When determining this scope, the organization shall consider: \n\n\na) the external and internal issues referred to in 4.1; \n\n\nb) the requirements referred to in 4.2; \n\n\nc) interfaces and dependencies between activities performed by the organization, and those that are performed by other organizations. \n\n\nThe scope shall be available as documented information.",
+    "source": "Vanta",
+    "domains": [
+      "ASSET_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.4.3"
+      }
+    ]
+  },
+  {
+    "id": "duwec37o",
+    "externalId": "AST-66",
+    "name": "Inventory of information and other associated assets",
+    "description": "An inventory of information and other associated assets, including owners, shall be developed and maintained.",
+    "source": "Vanta",
+    "domains": [
+      "ASSET_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.9"
+      }
+    ]
+  },
+  {
+    "id": "23wj3sby",
+    "externalId": "AST-67",
+    "name": "Return of assets",
+    "description": "Personnel and other interested parties as appropriate shall return all the organization\u2019s assets in their possession upon change or termination of their employment, contract or agreement.",
+    "source": "Vanta",
+    "domains": [
+      "ASSET_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.11"
+      }
+    ]
+  },
+  {
+    "id": "dzm2dexq",
+    "externalId": "AST-69",
+    "name": "Security of assets off-premises",
+    "description": "Off-site assets shall be protected.",
+    "source": "Vanta",
+    "domains": [
+      "ASSET_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.7.9"
+      }
+    ]
+  },
+  {
+    "id": "rol0zubt",
+    "externalId": "AST-70",
+    "name": "Storage media",
+    "description": "Storage media shall be managed through their life cycle of acquisition, use, transportation and disposal in accordance with the organization\u2019s classification scheme and handling requirements.",
+    "source": "Vanta",
+    "domains": [
+      "ASSET_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.7.10"
+      }
+    ]
+  },
+  {
+    "id": "9t2qdzle",
+    "externalId": "BCD-68",
+    "name": "ICT readiness for business continuity",
+    "description": "ICT readiness shall be planned, implemented, maintained and tested based on business continuity objectives and ICT continuity requirements.",
+    "source": "Vanta",
+    "domains": [
+      "BUSINESS_CONTINUITY_&_DISASTER_RECOVERY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.30"
+      }
+    ]
+  },
+  {
+    "id": "o7ssnlfi",
+    "externalId": "BCD-69",
+    "name": "Information backup",
+    "description": "Backup copies of information, software and systems shall be maintained and regularly tested in accordance with the agreed topic-specific policy on backup.",
+    "source": "Vanta",
+    "domains": [
+      "BUSINESS_CONTINUITY_&_DISASTER_RECOVERY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.13"
+      }
+    ]
+  },
+  {
+    "id": "oufs0z8u",
+    "externalId": "BCD-70",
+    "name": "Redundancy of information processing facilities",
+    "description": "Information processing facilities shall be implemented with redundancy sufficient to meet availability requirements.",
+    "source": "Vanta",
+    "domains": [
+      "BUSINESS_CONTINUITY_&_DISASTER_RECOVERY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.14"
+      }
+    ]
+  },
+  {
+    "id": "fpa4156z",
+    "externalId": "CAP-7",
+    "name": "Capacity management",
+    "description": "The use of resources shall be monitored and adjusted in line with current and expected capacity requirements.",
+    "source": "Vanta",
+    "domains": [
+      "CAPACITY_&_PERFORMANCE_PLANNING"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.6"
+      }
+    ]
+  },
+  {
+    "id": "hrnf9oqw",
+    "externalId": "CFG-44",
+    "name": "Configuration management",
+    "description": "Configurations, including security configurations, of hardware, software, services and networks shall be established, documented, implemented, monitored and reviewed.",
+    "source": "Vanta",
+    "domains": [
+      "CONFIGURATION_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.9"
+      }
+    ]
+  },
+  {
+    "id": "knlhbqw2",
+    "externalId": "CHG-37",
+    "name": "Planning of Changes",
+    "description": "When the organization determines the need for changes to the information security management system, the changes shall be carried out in a planned manner.",
+    "source": "Vanta",
+    "domains": [
+      "CHANGE_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.6.3"
+      }
+    ]
+  },
+  {
+    "id": "voxc3tc6",
+    "externalId": "CHG-38",
+    "name": "Installation of software on operational systems",
+    "description": "Procedures and measures shall be implemented to securely manage software installation on operational systems.",
+    "source": "Vanta",
+    "domains": [
+      "CHANGE_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.19"
+      }
+    ]
+  },
+  {
+    "id": "sbjgr7xz",
+    "externalId": "CHG-39",
+    "name": "Change management",
+    "description": "Changes to information processing facilities and information systems shall be subject to change management procedures.",
+    "source": "Vanta",
+    "domains": [
+      "CHANGE_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.32"
+      }
+    ]
+  },
+  {
+    "id": "zrx7kjgo",
+    "externalId": "CLD-7",
+    "name": "Information security for use of cloud services",
+    "description": "Processes for acquisition, use, management and exit from cloud services shall be established in accordance with the organization\u2019s information security requirements.",
+    "source": "Vanta",
+    "domains": [
+      "CLOUD_SECURITY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.23"
+      }
+    ]
+  },
+  {
+    "id": "7mi2nbsh",
+    "externalId": "CPL-41",
+    "name": "Internal Audit - General",
+    "description": "The organization shall conduct internal audits at planned intervals to provide information on whether the information security management system: \n\n\na) conforms to\n\n  1) the organization\u2019s own requirements for its information security management system; \n\n  2) the requirements of this document;\n\n\nb) is effectively implemented and maintained.",
+    "source": "Vanta",
+    "domains": [
+      "COMPLIANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.9.2.1"
+      }
+    ]
+  },
+  {
+    "id": "nqkiqbmz",
+    "externalId": "CPL-42",
+    "name": "Internal Audit Program",
+    "description": "The organization shall plan, establish, implement and maintain an audit programme(s), including the frequency, methods, responsibilities, planning requirements and reporting. \n\n\nWhen establishing the internal audit programme(s), the organization shall consider the importance of the processes concerned and the results of previous audits. \n\n\nThe organization shall: \n\n\na) define the audit criteria and scope for each audit;\n\n \n\nb) select auditors and conduct audits that ensure objectivity and the impartiality of the audit process; \n\n\nc) ensure that the results of the audits are reported to relevant management; \n\n\nDocumented information shall be available as evidence of the implementation of the audit programme(s) and the audit results.",
+    "source": "Vanta",
+    "domains": [
+      "COMPLIANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.9.2.2"
+      }
+    ]
+  },
+  {
+    "id": "pb10fioj",
+    "externalId": "CPL-43",
+    "name": "Nonconformity and corrective action",
+    "description": "When a Nonconformity occurs, the organization shall:\n\n\na) React to the nonconformity, and as applicable:\n\n  1) take action to control and correct it;\n\n  2) deal with the consequences\n\n\nb) evaluate the need for action to eliminate the causes of nonconformity, in order that it does not recur or occur elsewhere, by;\n\n  1) reviewing the nonconformity;\n\n  2) determining the causes of the nonconformity; and\n\n  3) determining if similar nonconformities exist, or could potentially occur\n\n\nc) implement any action needed;\n\n\nd) review the effectiveness of any corrective action taken; and\n\n\ne) make changes to the information security management system, if necessary. \n\n\nCorrective actions shall be appropriate to the effects of the nonconformities encountered.\n\n\nDocumented information shall be available as evidence of:\n\n\nf) The nature of the nonconformities and any subsequent actions taken,\n\n\ng) the results of any corrective action.",
+    "source": "Vanta",
+    "domains": [
+      "COMPLIANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.10.2"
+      }
+    ]
+  },
+  {
+    "id": "p87muahm",
+    "externalId": "CPL-44",
+    "name": "Legal, statutory, regulatory and contractual requirements",
+    "description": "Legal, statutory, regulatory and contractual requirements relevant to information security and the organization\u2019s approach to meet these requirements shall be identified, documented and kept up to date.",
+    "source": "Vanta",
+    "domains": [
+      "COMPLIANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.31"
+      }
+    ]
+  },
+  {
+    "id": "nogvv3hw",
+    "externalId": "CRY-91",
+    "name": "Information transfer",
+    "description": "Information transfer rules, procedures, or agreements shall be in place for all types of transfer facilities within the organization and between the organization and other parties.",
+    "source": "Vanta",
+    "domains": [
+      "CRYPTOGRAPHIC_PROTECTIONS"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.14"
+      }
+    ]
+  },
+  {
+    "id": "07i98tv1",
+    "externalId": "CRY-92",
+    "name": "Use of cryptography",
+    "description": "Rules for the effective use of cryptography, including cryptographic key management, shall be defined and implemented.",
+    "source": "Vanta",
+    "domains": [
+      "CRYPTOGRAPHIC_PROTECTIONS"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.24"
+      }
+    ]
+  },
+  {
+    "id": "425x42p9",
+    "externalId": "DCH-106",
+    "name": "Acceptable use of information and other associated assets",
+    "description": "Rules for the acceptable use and procedures for handling information and other associated assets shall be identified, documented and implemented.",
+    "source": "Vanta",
+    "domains": [
+      "DATA_CLASSIFICATION_&_HANDLING"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.10"
+      }
+    ]
+  },
+  {
+    "id": "m8r0bfbq",
+    "externalId": "DCH-107",
+    "name": "Classification of information",
+    "description": "Information shall be classified according to the information security needs of the organization based on confidentiality, integrity, availability and relevant interested party requirements.",
+    "source": "Vanta",
+    "domains": [
+      "DATA_CLASSIFICATION_&_HANDLING"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.12"
+      }
+    ]
+  },
+  {
+    "id": "5qzssew8",
+    "externalId": "DCH-108",
+    "name": "Labelling of information",
+    "description": "An appropriate set of procedures for information labelling shall be developed and implemented in accordance with the information classification scheme adopted by the organization.",
+    "source": "Vanta",
+    "domains": [
+      "DATA_CLASSIFICATION_&_HANDLING"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.13"
+      }
+    ]
+  },
+  {
+    "id": "mtbrd5ny",
+    "externalId": "DCH-109",
+    "name": "Protection of records",
+    "description": "Records shall be protected from loss, destruction, falsification, unauthorized access and unauthorized release.",
+    "source": "Vanta",
+    "domains": [
+      "DATA_CLASSIFICATION_&_HANDLING"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.33"
+      }
+    ]
+  },
+  {
+    "id": "kt5aajg7",
+    "externalId": "DCH-110",
+    "name": "Information deletion",
+    "description": "Information stored in information systems, devices or in any other storage media shall be deleted when no longer required.",
+    "source": "Vanta",
+    "domains": [
+      "DATA_CLASSIFICATION_&_HANDLING"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.10"
+      }
+    ]
+  },
+  {
+    "id": "fjoy8ov9",
+    "externalId": "DCH-111",
+    "name": "Data masking",
+    "description": "Data masking shall be used in accordance with the organization\u2019s topic-specific policy on access control and other related topic-specific policies, and business requirements, taking applicable legislation into consideration.",
+    "source": "Vanta",
+    "domains": [
+      "DATA_CLASSIFICATION_&_HANDLING"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.11"
+      }
+    ]
+  },
+  {
+    "id": "zv2sb0to",
+    "externalId": "DCH-112",
+    "name": "Data leakage prevention",
+    "description": "Data leakage prevention measures shall be applied to systems, networks and any other devices that process, store or transmit sensitive information.",
+    "source": "Vanta",
+    "domains": [
+      "DATA_CLASSIFICATION_&_HANDLING"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.12"
+      }
+    ]
+  },
+  {
+    "id": "2zhexo15",
+    "externalId": "END-40",
+    "name": "User endpoint devices",
+    "description": "Information stored on, processed by or accessible via user endpoint devices shall be protected.",
+    "source": "Vanta",
+    "domains": [
+      "ENDPOINT_SECURITY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.1"
+      }
+    ]
+  },
+  {
+    "id": "4e2usbzc",
+    "externalId": "END-41",
+    "name": "Protection against malware",
+    "description": "Protection against malware shall be implemented and supported by appropriate user awareness.",
+    "source": "Vanta",
+    "domains": [
+      "ENDPOINT_SECURITY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.7"
+      }
+    ]
+  },
+  {
+    "id": "3h090bng",
+    "externalId": "GOV-90",
+    "name": "Understanding the needs of interested parties",
+    "description": "The organization shall determine: \n\n\na) interested parties that are relevant to the information security management system; \n\n\nb) the relevant requirements of these interested parties; \n\n\nc) which of these requirements will be addressed through the information security management system.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.4.2"
+      }
+    ]
+  },
+  {
+    "id": "qvl84rml",
+    "externalId": "GOV-96",
+    "name": "Communication",
+    "description": "The organization shall determine the need for internal and external communications relevant to the information security management system including: \n\n\na) on what to communicate;\n\n\nb) when to communicate;\n\n\nc) with whom to communicate;\n\n\nd) how to communicate.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.7.4"
+      }
+    ]
+  },
+  {
+    "id": "iuq8lnb6",
+    "externalId": "GOV-97",
+    "name": "Documented information",
+    "description": "The organization\u2019s information security management system shall include: \n\n\na) documented information required by this document; and \n\n\nb) documented information determined by the organization as being necessary for the effectiveness of the information security management system.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.7.5.1"
+      }
+    ]
+  },
+  {
+    "id": "gidyzqry",
+    "externalId": "GOV-98",
+    "name": "Creating and Updating",
+    "description": "When creating and updating documented information the organization shall ensure appropriate:\n\n\na) identification and description (e.g. a title, date, author, or reference number);\n\n\nb) format (e.g. language, software version, graphics) and media (e.g. paper, electronic); and\n\n\nc) review and approval for suitability and adequacy.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.7.5.2"
+      }
+    ]
+  },
+  {
+    "id": "m7cfnwkq",
+    "externalId": "GOV-101",
+    "name": "Management review - General",
+    "description": "Top management shall review the organization's information security management system at planned intervals to ensure its continuing suitability, adequacy and effectiveness.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.9.3.1"
+      }
+    ]
+  },
+  {
+    "id": "steival4",
+    "externalId": "GOV-102",
+    "name": "Management review inputs",
+    "description": "The management review shall include consideration of: \n\n\na) the status of actions from previous management reviews; \n\n\nb) changes in external and internal issues that are relevant to the information security management system; \n\n\nc) changes in needs and expectations of interested parties that are relevant to the information security management system; \n\n\nd) feedback on the information security performance, including trends in: \n\n  1) nonconformities and corrective actions;\n\n  2) monitoring and measurement results;\n\n  3) audit results; \n\n  4) fulfilment of information security objectives;\n\n\ne) feedback from interested parties;\n\n\nf) results of risk assessment and status of risk treatment plan; \n\n\ng) opportunities for continual improvement.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.9.3.2"
+      }
+    ]
+  },
+  {
+    "id": "u7dltb40",
+    "externalId": "GOV-103",
+    "name": "Management review results",
+    "description": "The results of the management review shall include decisions related to continual improvement opportunities and any needs for changes to the information security management system.\n\n\nDocumented information shall be available as evidence of the results of management reviews.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.9.3.3"
+      }
+    ]
+  },
+  {
+    "id": "0eyp30mh",
+    "externalId": "GOV-104",
+    "name": "Continual Improvement",
+    "description": "The organization shall continually improve the suitability, adequacy and effectiveness of the information security management system.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.10.1"
+      }
+    ]
+  },
+  {
+    "id": "ihtowh2e",
+    "externalId": "GOV-105",
+    "name": "Policies for information security",
+    "description": "Information security policy and topic-specific policies shall be defined, approved by management, published, communicated to and acknowledged by relevant personnel and relevant interested parties, and reviewed at planned intervals and if significant changes occur.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.1"
+      }
+    ]
+  },
+  {
+    "id": "69z2hplm",
+    "externalId": "GOV-106",
+    "name": "Management responsibilities",
+    "description": "Management shall require all personnel to apply information security in accordance with the established information security policy, topic-specific policies and procedures of the organization.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.4"
+      }
+    ]
+  },
+  {
+    "id": "5sd6imyl",
+    "externalId": "GOV-108",
+    "name": "Contact with special interest groups",
+    "description": "The organization shall establish and maintain contact with special interest groups or other specialist security forums and professional associations.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.6"
+      }
+    ]
+  },
+  {
+    "id": "o9q0idpd",
+    "externalId": "GOV-109",
+    "name": "Documented operating procedures",
+    "description": "Operating procedures for information processing facilities shall be documented and made available to personnel who need them.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.37"
+      }
+    ]
+  },
+  {
+    "id": "h8fbfi9g",
+    "externalId": "HRS-53",
+    "name": "Awareness",
+    "description": "Persons doing work under the organization\u2019s control shall be aware of:\n\n\na) the information security policy; \n\n\nb) their contribution to the effectiveness of the information security management system, including the benefits of improved information security performance; and \n\n\nc) the implications of not conforming with the information security management system requirements.",
+    "source": "Vanta",
+    "domains": [
+      "HUMAN_RESOURCES_SECURITY"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.7.3"
+      }
+    ]
+  },
+  {
+    "id": "6i8ettoj",
+    "externalId": "HRS-54",
+    "name": "Information security roles and responsibilities",
+    "description": "Information security roles and responsibilities shall be defined and allocated according to the organization needs.",
+    "source": "Vanta",
+    "domains": [
+      "HUMAN_RESOURCES_SECURITY"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.2"
+      }
+    ]
+  },
+  {
+    "id": "v4vhjfvh",
+    "externalId": "HRS-55",
+    "name": "Segregation of duties",
+    "description": "Conflicting duties and conflicting areas of responsibility shall be segregated.",
+    "source": "Vanta",
+    "domains": [
+      "HUMAN_RESOURCES_SECURITY"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.3"
+      }
+    ]
+  },
+  {
+    "id": "i9up48pp",
+    "externalId": "HRS-56",
+    "name": "Screening",
+    "description": "Background verification checks on all candidates to become personnel shall be carried out prior to joining the organization and on an ongoing basis taking into consideration applicable laws, regulations and ethics and be proportional to the business requirements, the classification of the information to be accessed and the perceived risks.",
+    "source": "Vanta",
+    "domains": [
+      "HUMAN_RESOURCES_SECURITY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.6.1"
+      }
+    ]
+  },
+  {
+    "id": "15al5zi7",
+    "externalId": "HRS-59",
+    "name": "Responsibilities after termination or change of employment",
+    "description": "Information security responsibilities and duties that remain valid after termination or change of employment shall be defined, enforced and communicated to relevant personnel and other interested parties.",
+    "source": "Vanta",
+    "domains": [
+      "HUMAN_RESOURCES_SECURITY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.6.5"
+      }
+    ]
+  },
+  {
+    "id": "v2ygke7o",
+    "externalId": "IAC-197",
+    "name": "Access control",
+    "description": "Rules to control physical and logical access to information and other associated assets shall be established and implemented based on business and information security requirements.",
+    "source": "Vanta",
+    "domains": [
+      "IDENTIFICATION_&_AUTHENTICATION"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.15"
+      }
+    ]
+  },
+  {
+    "id": "5c4gnshh",
+    "externalId": "IAC-199",
+    "name": "Authentication information",
+    "description": "Allocation and management of authentication information shall be controlled by a management process, including advising personnel on the appropriate handling of authentication information.",
+    "source": "Vanta",
+    "domains": [
+      "IDENTIFICATION_&_AUTHENTICATION"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.17"
+      }
+    ]
+  },
+  {
+    "id": "xtd1rde4",
+    "externalId": "IAC-200",
+    "name": "Access rights",
+    "description": "Access rights to information and other associated assets shall be provisioned, reviewed, modified and removed in accordance with the organization\u2019s topic-specific policy on and rules for access control.",
+    "source": "Vanta",
+    "domains": [
+      "IDENTIFICATION_&_AUTHENTICATION"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.18"
+      }
+    ]
+  },
+  {
+    "id": "zxjp1hkl",
+    "externalId": "IAC-201",
+    "name": "Privileged access rights",
+    "description": "The allocation and use of privileged access rights shall be restricted and managed.",
+    "source": "Vanta",
+    "domains": [
+      "IDENTIFICATION_&_AUTHENTICATION"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.2"
+      }
+    ]
+  },
+  {
+    "id": "mwwihowm",
+    "externalId": "IAC-202",
+    "name": "Information access restriction",
+    "description": "Access to information and other associated assets shall be restricted in accordance with the established topic-specific policy on access control.",
+    "source": "Vanta",
+    "domains": [
+      "IDENTIFICATION_&_AUTHENTICATION"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.3"
+      }
+    ]
+  },
+  {
+    "id": "5o51jc7h",
+    "externalId": "IAC-204",
+    "name": "Use of privileged utility programs",
+    "description": "The use of utility programs that can be capable of overriding system and application controls shall be restricted and tightly controlled.",
+    "source": "Vanta",
+    "domains": [
+      "IDENTIFICATION_&_AUTHENTICATION"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.18"
+      }
+    ]
+  },
+  {
+    "id": "v9blvnxj",
+    "externalId": "IRO-90",
+    "name": "Addressing information security within supplier agreements",
+    "description": "Relevant information security requirements shall be established and agreed with each supplier based on the type of supplier relationship.",
+    "source": "Vanta",
+    "domains": [
+      "INCIDENT_RESPONSE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.20"
+      }
+    ]
+  },
+  {
+    "id": "lggb5g7c",
+    "externalId": "IRO-91",
+    "name": "Information security incident management planning and preparation",
+    "description": "The organization shall plan and prepare for managing information security incidents by defining, establishing and communicating information security incident management processes, roles and responsibilities.",
+    "source": "Vanta",
+    "domains": [
+      "INCIDENT_RESPONSE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.24"
+      }
+    ]
+  },
+  {
+    "id": "tp0kv7ho",
+    "externalId": "IRO-92",
+    "name": "Assessment and decision on information security events",
+    "description": "The organization shall assess information security events and decide if they are to be categorized as information security incidents.",
+    "source": "Vanta",
+    "domains": [
+      "INCIDENT_RESPONSE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.25"
+      }
+    ]
+  },
+  {
+    "id": "qmodzmvg",
+    "externalId": "IRO-93",
+    "name": "Response to information security incidents",
+    "description": "Information security incidents shall be responded to in accordance with the documented procedures.",
+    "source": "Vanta",
+    "domains": [
+      "INCIDENT_RESPONSE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.26"
+      }
+    ]
+  },
+  {
+    "id": "47fxwco1",
+    "externalId": "IRO-94",
+    "name": "Learning from information security incidents",
+    "description": "Knowledge gained from information security incidents shall be used to strengthen and improve the information security controls.",
+    "source": "Vanta",
+    "domains": [
+      "INCIDENT_RESPONSE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.27"
+      }
+    ]
+  },
+  {
+    "id": "2qki93x0",
+    "externalId": "IRO-95",
+    "name": "Collection of evidence",
+    "description": "The organization shall establish and implement procedures for the identification, collection, acquisition and preservation of evidence related to information security events.",
+    "source": "Vanta",
+    "domains": [
+      "INCIDENT_RESPONSE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.28"
+      }
+    ]
+  },
+  {
+    "id": "x14j0x47",
+    "externalId": "IRO-96",
+    "name": "Information security during disruption",
+    "description": "The organization shall plan how to maintain information security at an appropriate level during disruption.",
+    "source": "Vanta",
+    "domains": [
+      "INCIDENT_RESPONSE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.29"
+      }
+    ]
+  },
+  {
+    "id": "qgkw4h74",
+    "externalId": "IRO-97",
+    "name": "Information security event reporting",
+    "description": "The organization shall provide a mechanism for personnel to report observed or suspected information security events through appropriate channels in a timely manner.",
+    "source": "Vanta",
+    "domains": [
+      "INCIDENT_RESPONSE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.6.8"
+      }
+    ]
+  },
+  {
+    "id": "3osnyf10",
+    "externalId": "MON-120",
+    "name": "Logging",
+    "description": "Logs that record activities, exceptions, faults and other relevant events shall be produced, stored, protected and analysed.",
+    "source": "Vanta",
+    "domains": [
+      "CONTINUOUS_MONITORING"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.15"
+      }
+    ]
+  },
+  {
+    "id": "i7xairas",
+    "externalId": "MON-121",
+    "name": "Monitoring activities",
+    "description": "Networks, systems and applications shall be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.",
+    "source": "Vanta",
+    "domains": [
+      "CONTINUOUS_MONITORING"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.16"
+      }
+    ]
+  },
+  {
+    "id": "jqyhc6kq",
+    "externalId": "NET-91",
+    "name": "Networks security",
+    "description": "Networks and network devices shall be secured, managed and controlled to protect information in systems and applications.",
+    "source": "Vanta",
+    "domains": [
+      "NETWORK SECURITY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.20"
+      }
+    ]
+  },
+  {
+    "id": "z58ieqyf",
+    "externalId": "NET-92",
+    "name": "Security of network services",
+    "description": "Security mechanisms, service levels and service requirements of network services shall be identified, implemented and monitored.",
+    "source": "Vanta",
+    "domains": [
+      "NETWORK SECURITY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.21"
+      }
+    ]
+  },
+  {
+    "id": "k3eilu6n",
+    "externalId": "NET-93",
+    "name": "Segregation of networks",
+    "description": "Groups of information services, users and information systems shall be segregated in the organization\u2019s networks.",
+    "source": "Vanta",
+    "domains": [
+      "NETWORK SECURITY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.22"
+      }
+    ]
+  },
+  {
+    "id": "4syp5hfe",
+    "externalId": "NET-94",
+    "name": "Web filtering",
+    "description": "Access to external websites shall be managed to reduce exposure to malicious content.",
+    "source": "Vanta",
+    "domains": [
+      "NETWORK SECURITY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.23"
+      }
+    ]
+  },
+  {
+    "id": "o3chwj8e",
+    "externalId": "PES-77",
+    "name": "Working in secure areas",
+    "description": "Security measures for working in secure areas shall be designed and implemented.",
+    "source": "Vanta",
+    "domains": [
+      "PHYSICAL_&_ENVIRONMENTAL_SECURITY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.7.6"
+      }
+    ]
+  },
+  {
+    "id": "ayjqf12w",
+    "externalId": "PES-79",
+    "name": "Equipment siting and protection",
+    "description": "Equipment shall be sited securely and protected.",
+    "source": "Vanta",
+    "domains": [
+      "PHYSICAL_&_ENVIRONMENTAL_SECURITY"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.7.8"
+      }
+    ]
+  },
+  {
+    "id": "qi6b6cr1",
+    "externalId": "PES-80",
+    "name": "Supporting utilities",
+    "description": "Information processing facilities shall be protected from power failures and other disruptions caused by failures in supporting utilities.",
+    "source": "Vanta",
+    "domains": [
+      "PHYSICAL_&_ENVIRONMENTAL_SECURITY"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.7.11"
+      }
+    ]
+  },
+  {
+    "id": "zz8z506w",
+    "externalId": "PRI-224",
+    "name": "Privacy and protection of PII",
+    "description": "The organization shall identify and meet the requirements regarding the preservation of privacy and protection of PII according to applicable laws and regulations and contractual requirements.",
+    "source": "Vanta",
+    "domains": [
+      "PRIVACY"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.34"
+      }
+    ]
+  },
+  {
+    "id": "1lbwjsfo",
+    "externalId": "PRM-14",
+    "name": "Information security in project management",
+    "description": "Information security shall be integrated into project management.",
+    "source": "Vanta",
+    "domains": [
+      "PROJECT_&_RESOURCE MANAGEMENT"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.8"
+      }
+    ]
+  },
+  {
+    "id": "sxcpoygj",
+    "externalId": "RSK-36",
+    "name": "Information security risk assessment",
+    "description": "The organization shall define and apply an information security risk assessment process that: \n\n\na) establishes and maintains information security risk criteria that include: \n\n  1) the risk acceptance criteria; and \n\n  2) criteria for performing information security risk assessments; \n\n\nb) ensures that repeated information security risk assessments produce consistent, valid and comparable results; \n\n\nc) identifies the information security risks: \n\n  1) apply the information security risk assessment process to identify risks associated with the loss of confidentiality, integrity and availability for information within the scope of the information security management system; and \n\n  2) identify the risk owners; \n\n\nd) analyses the information security risks: \n\n  1) assess the potential consequences that would result if the risks identified in 6.1.2 c) 1) were to materialize; \n\n  2) assess the realistic likelihood of the occurrence of the risks identified in 6.1.2 c) 1); and \n\n  3) determine the levels of risk; \n\n\ne) evaluates the information security risks: \n\n  1) compare the results of risk analysis with the risk criteria established in 6.1.2 a); and \n\n  2) prioritize the analysed risks for risk treatment. \n\n\nThe organization shall retain documented information about the information security risk assessment process.",
+    "source": "Vanta",
+    "domains": [
+      "RISK_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.6.1.2"
+      }
+    ]
+  },
+  {
+    "id": "jkza2tda",
+    "externalId": "RSK-37",
+    "name": "Information security risk treatment",
+    "description": "The organization shall define and apply an information security risk treatment process to: \n\n\na) select appropriate information security risk treatment options, taking account of the risk assessment results; \n\n\nb) determine all controls that are necessary to implement the information security risk treatment option(s) chosen; \n\n\nc) compare the controls determined in 6.1.3 b) above with those in Annex A and verify that no necessary controls have been omitted; \n\n\nd) produce a Statement of Applicability that contains: \n\n\n\u2014 the necessary controls (see 6.1.3 b) and c)); \n\n\n  \u2014 justification for their inclusion; \n\n\n  \u2014 whether the necessary controls are implemented or not; and \n\n\n  \u2014 the justification for excluding any of the Annex A controls. \n\n\ne) formulate an information security risk treatment plan; and \n\n\nf) obtain risk owners\u2019 approval of the information security risk treatment plan and acceptance of the residual information security risks. \n\n\nThe organization shall retain documented information about the information security risk treatment process.",
+    "source": "Vanta",
+    "domains": [
+      "RISK_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.6.1.3"
+      }
+    ]
+  },
+  {
+    "id": "4t917e3g",
+    "externalId": "RSK-38",
+    "name": "Information security risk assessment",
+    "description": "The organization shall perform information security risk assessments at planned intervals or when significant changes are proposed or occur, taking account of the criteria established in 6.1.2 a). \n\n\nThe organization shall retain documented information of the results of the information security risk assessments.",
+    "source": "Vanta",
+    "domains": [
+      "RISK_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.8.2"
+      }
+    ]
+  },
+  {
+    "id": "vumyqh2x",
+    "externalId": "RSK-39",
+    "name": "Information security risk treatment",
+    "description": "The organization shall retain documented information of the results of the information security risk treatment.",
+    "source": "Vanta",
+    "domains": [
+      "RISK_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.8.3"
+      }
+    ]
+  },
+  {
+    "id": "h46r2403",
+    "externalId": "SAT-44",
+    "name": "Information security awareness, education and training",
+    "description": "Personnel of the organization and relevant interested parties shall receive appropriate information security awareness, education and training and regular updates of the organization's information security policy, topic-specific policies and procedures, as relevant for their job function.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_AWARENESS_&_TRAINING"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.6.3"
+      }
+    ]
+  },
+  {
+    "id": "m6u2mvnk",
+    "externalId": "SEA-55",
+    "name": "Application security requirements",
+    "description": "Information security requirements shall be identified, specified and approved when developing or acquiring applications.",
+    "source": "Vanta",
+    "domains": [
+      "SECURE_ENGINEERING_&_ARCHITECTURE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.26"
+      }
+    ]
+  },
+  {
+    "id": "27qd09no",
+    "externalId": "SEA-56",
+    "name": "Secure system architecture and engineering principles",
+    "description": "Principles for engineering secure systems shall be established, documented, maintained and applied to any information system development activities.",
+    "source": "Vanta",
+    "domains": [
+      "SECURE_ENGINEERING_&_ARCHITECTURE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.27"
+      }
+    ]
+  },
+  {
+    "id": "axwe26mw",
+    "externalId": "TDA-37",
+    "name": "Access to source code",
+    "description": "Read and write access to source code, development tools and software libraries shall be appropriately managed.",
+    "source": "Vanta",
+    "domains": [
+      "TECHNOLOGY_DEVELOPMENT_&_ACQUISITION"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.4"
+      }
+    ]
+  },
+  {
+    "id": "c7diea1e",
+    "externalId": "TDA-38",
+    "name": "Secure development life cycle",
+    "description": "Rules for the secure development of software and systems shall be established and applied.",
+    "source": "Vanta",
+    "domains": [
+      "TECHNOLOGY_DEVELOPMENT_&_ACQUISITION"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.25"
+      }
+    ]
+  },
+  {
+    "id": "qi8ey5na",
+    "externalId": "TDA-39",
+    "name": "Secure coding",
+    "description": "Secure coding principles shall be applied to software development.",
+    "source": "Vanta",
+    "domains": [
+      "TECHNOLOGY_DEVELOPMENT_&_ACQUISITION"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.28"
+      }
+    ]
+  },
+  {
+    "id": "ise32uno",
+    "externalId": "TDA-40",
+    "name": "Security testing in development and acceptance",
+    "description": "Security testing processes shall be defined and implemented in the development life cycle.",
+    "source": "Vanta",
+    "domains": [
+      "TECHNOLOGY_DEVELOPMENT_&_ACQUISITION"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.29"
+      }
+    ]
+  },
+  {
+    "id": "sbiopz10",
+    "externalId": "TDA-41",
+    "name": "Separation of development, test and production environments",
+    "description": "Development, testing and production environments shall be separated and secured.",
+    "source": "Vanta",
+    "domains": [
+      "TECHNOLOGY_DEVELOPMENT_&_ACQUISITION"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.31"
+      }
+    ]
+  },
+  {
+    "id": "bqnpwe6c",
+    "externalId": "TDA-42",
+    "name": "Test information",
+    "description": "Test information shall be appropriately selected, protected and managed.",
+    "source": "Vanta",
+    "domains": [
+      "TECHNOLOGY_DEVELOPMENT_&_ACQUISITION"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.33"
+      }
+    ]
+  },
+  {
+    "id": "mjnl61h4",
+    "externalId": "THR-13",
+    "name": "Threat Intelligence",
+    "description": "Information relating to information security threats shall be collected and analyzed to produce threat intelligence.",
+    "source": "Vanta",
+    "domains": [
+      "THREAT_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.7"
+      }
+    ]
+  },
+  {
+    "id": "dz91o1f8",
+    "externalId": "TPM-53",
+    "name": "Information security in supplier relationships",
+    "description": "Processes and procedures shall be defined and implemented to manage the information security risks associated with the use of supplier\u2019s products or services.",
+    "source": "Vanta",
+    "domains": [
+      "THIRD-PARTY_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.19"
+      }
+    ]
+  },
+  {
+    "id": "69evj2pe",
+    "externalId": "TPM-54",
+    "name": "Managing information security in the ICT supply chain",
+    "description": "Processes and procedures shall be defined and implemented to manage the information security risks associated with the ICT products and services supply chain.",
+    "source": "Vanta",
+    "domains": [
+      "THIRD-PARTY_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.21"
+      }
+    ]
+  },
+  {
+    "id": "r7xxjkaz",
+    "externalId": "TPM-55",
+    "name": "Monitoring, review and change management of supplier services",
+    "description": "The organization shall regularly monitor, review, evaluate and manage change in supplier information security practices and service delivery.",
+    "source": "Vanta",
+    "domains": [
+      "THIRD-PARTY_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.22"
+      }
+    ]
+  },
+  {
+    "id": "9phqpcta",
+    "externalId": "TPM-56",
+    "name": "Outsourced development",
+    "description": "The organization shall direct, monitor and review the activities related to outsourced system development.",
+    "source": "Vanta",
+    "domains": [
+      "THIRD-PARTY_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.30"
+      }
+    ]
+  },
+  {
+    "id": "ucm1fk9z",
+    "externalId": "GOV-95",
+    "name": "Information security objective and planning to achieve them",
+    "description": "The organization shall establish information security objectives at relevant functions and levels. The information security objectives shall:\n\n\na) be consistent with the information security policy; \n\n\nb) be measurable (if practicable); \n\n\nc) take into account applicable information security requirements, and results from risk assessment and risk treatment; \n\n\nd) be monitored; \n\n\ne) be communicated; \n\n\nf) be updated as appropriate; \n\n\ng) be available as documented information. \n\n\nThe organization shall retain documented information on the information security objectives. \n\n\nWhen planning how to achieve its information security objectives, the organization shall determine: \n\n\nh) what will be done; \n\n\ni) what resources will be required; \n\n\nj) who will be responsible; \n\n\nk) when it will be completed; and \n\n\nl) how the results will be evaluated.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.6.2"
+      }
+    ]
+  },
+  {
+    "id": "ulnhky2w",
+    "externalId": "GOV-92",
+    "name": "Leadership and commitment",
+    "description": "Top management shall demonstrate leadership and commitment with respect to the information security management system by: \n\n\na) ensuring the information security policy and the information security objectives are established and are compatible with the strategic direction of the organization; \n\n\nb) ensuring the integration of the information security management system requirements into the organization\u2019s processes; \n\n\nc) ensuring that the resources needed for the information security management system are available; \n\n\nd) communicating the importance of effective information security management and of conforming to the information security management system requirements; \n\n\ne) ensuring that the information security management system achieves its intended outcome(s); \n\n\nf) directing and supporting persons to contribute to the effectiveness of the information security management system; \n\n\ng) promoting continual improvement; and \n\n\nh) supporting other relevant management roles to demonstrate their leadership as it applies to their areas of responsibility.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.5.1"
+      }
+    ]
+  },
+  {
+    "id": "77yz851y",
+    "externalId": "GOV-89",
+    "name": "Understanding the organization and its context",
+    "description": "The organization shall determine external and internal issues that are relevant to its purpose and that affect its ability to achieve the intended outcome(s) of its information security management system.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.4.1"
+      }
+    ]
+  },
+  {
+    "id": "wx3ruzdu",
+    "externalId": "GOV-91",
+    "name": "Information security management system",
+    "description": "The organization shall establish, implement, maintain and continually improve an information security management system, including the processes needed and their interactions, in accordance with the requirements of ISO .",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.4.4"
+      }
+    ]
+  },
+  {
+    "id": "6zi88387",
+    "externalId": "GOV-93",
+    "name": "Policy",
+    "description": "Top management shall establish an information security policy that: \n\n\na) is appropriate to the purpose of the organization; \n\n\nb) includes information security objectives (see 6.2) or provides the framework for setting information security objectives; \n\n\nc) includes a commitment to satisfy applicable requirements related to information security; \n\n\nd) includes a commitment to continual improvement of the information security management system.\n\n\nThe information security policy shall: \n\n\ne) be available as documented information; \n\n\nf) be communicated within the organization; \n\n\ng) be available to interested parties, as appropriate.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.5.2"
+      }
+    ]
+  },
+  {
+    "id": "iu7o7dv3",
+    "externalId": "GOV-94",
+    "name": "Organizational roles, responsibilities and authorities",
+    "description": "Top management shall ensure that the responsibilities and authorities for roles relevant to information security are assigned and communicated within the organization. \n\n\nTop management shall assign the responsibility and authority for: \n\n\na) ensuring that the information security management system conforms to the requirements of this document; \n\n\nb) reporting on the performance of the information security management system to top management.",
+    "source": "Vanta",
+    "domains": [
+      "SECURITY_&_PRIVACY_GOVERNANCE"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.5.3"
+      }
+    ]
+  },
+  {
+    "id": "dzsaee29",
+    "externalId": "CPL-47",
+    "name": "Protection of information systems during audit testing",
+    "description": "Audit tests and other assurance activities involving assessment of operational systems shall be planned and agreed between the tester and appropriate management.",
+    "source": "Vanta",
+    "domains": [
+      "COMPLIANCE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.34"
+      }
+    ]
+  },
+  {
+    "id": "7pn1c8nr",
+    "externalId": "CPL-45",
+    "name": "Independent review of information security",
+    "description": "The organization\u2019s approach to managing information security and its implementation including people, processes and technologies shall be reviewed independently at planned intervals, or when significant changes occur.",
+    "source": "Vanta",
+    "domains": [
+      "COMPLIANCE"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.35"
+      }
+    ]
+  },
+  {
+    "id": "gonqt473",
+    "externalId": "AST-68",
+    "name": "Intellectual property rights",
+    "description": "The organization shall implement appropriate procedures to protect intellectual property rights.",
+    "source": "Vanta",
+    "domains": [
+      "ASSET_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "6617b60bad8260e8ba91cddb",
+      "emailAddress": "jackson@tryvital.io",
+      "displayName": "Jackson Irwin"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.5.32"
+      }
+    ]
+  },
+  {
+    "id": "x71vtj2d",
+    "externalId": "RSK-35",
+    "name": "General actions to address risks and opportunities",
+    "description": "When planning for the information security management system, the organization shall consider the issues referred to in 4.1 and the requirements referred to in 4.2 and determine the risks and opportunities that need to be addressed to: \n\n\na) ensure the information security management system can achieve its intended outcome(s); \n\n\nb) prevent, or reduce, undesired effects; \n\n\nc) achieve continual improvement.\n\n\nThe organization shall plan: \n\n\nd) actions to address these risks and opportunities; and \n\n\ne) how to \n\n  1) integrate and implement the actions into its information security management system processes; and \n\n  2) evaluate the effectiveness of these actions",
+    "source": "Vanta",
+    "domains": [
+      "RISK_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "C.6.1.1"
+      }
+    ]
+  },
+  {
+    "id": "z01cfd6c",
+    "externalId": "VPM-75",
+    "name": "Management of technical vulnerabilities",
+    "description": "Information about technical vulnerabilities of information systems in use shall be obtained, the organization\u2019s exposure to such vulnerabilities should be evaluated and appropriate measures should be taken.",
+    "source": "Vanta",
+    "domains": [
+      "VULNERABILITY_&_PATCH_MANAGEMENT"
+    ],
+    "owner": {
+      "id": "612d07dc85dbc71bb8a13b12",
+      "emailAddress": "maitham@tryvital.io",
+      "displayName": "Maitham Dib"
+    },
+    "role": null,
+    "customFields": [],
+    "framework": "iso27001_2022",
+    "sections": [
+      {
+        "framework": "ISO 27001:2022",
+        "name": "A.8.8"
+      }
+    ]
+  }
+]
